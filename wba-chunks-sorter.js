@@ -6,7 +6,7 @@
 // @grant       none
 // @version     1.0
 // @author      -
-// @description 12.02.2021, 20:30:10
+// @description Sort chunks on Webpack bundle analyzer result page
 // ==/UserScript==
 
 sortChunks();
